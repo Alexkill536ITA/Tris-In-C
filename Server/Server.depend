@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579266951 source:d:\amdfa\onedrive\documenti\code blocks\tris\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<string.h>
+
